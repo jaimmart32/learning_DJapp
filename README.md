@@ -1,0 +1,1 @@
+A web application called learning log that allows users to record the topics they are interested in and make journal entries as they learn about each topic. The home page describes the site and will invite users to register or log in. Once the session has started. The user can create new topics, add entries and read and edit existing ones.
