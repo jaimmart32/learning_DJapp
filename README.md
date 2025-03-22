@@ -1,3 +1,37 @@
+# 📝 Learning Log
+
+**Learning Log** es una aplicación web desarrollada con **Python y Django**, que permite a los usuarios registrar y gestionar temas sobre los que están aprendiendo, junto con entradas relacionadas. Este proyecto forma parte del libro *"Python Crash Course"* de Eric Matthes, y está diseñado para enseñar los fundamentos del desarrollo web con Django.
+
+---
+
+## 🌐 Tecnologías utilizadas
+
+- **Python**
+- **Django** (framework web)
+- **SQLite** (base de datos por defecto de Django)
+- **HTML/CSS** (plantillas básicas para frontend)
+
+---
+
+## 🚀 Funcionalidades principales
+
+- ✅ Registro e inicio de sesión de usuarios
+- ✅ Creación de temas de aprendizaje personalizados
+- ✅ Añadir entradas relacionadas a cada tema
+- ✅ Ver listado de temas y entradas
+- ✅ Restringir cada usuario a sus propios datos
+- ✅ Interfaz sencilla y limpia para gestionar el contenido
+
+---
+
+## 🎯 Objetivos del proyecto
+
+- Aprender el flujo básico de trabajo con Django
+- Crear modelos, vistas y templates
+- Usar el panel de administración de Django
+- Implementar autenticación de usuarios
+- Comprender el sistema de URLs y vistas basadas en clases/funciones
+
 # Learning Log
 
 ## Overview
